@@ -1,4 +1,4 @@
-# GeogridNet
+# GeoGridNet
 Official implementation of "GeogridNet: A Dual-Branch Geometric Grid Network for Superior Temporal Sulcus-Related Fiber Parcellation"
 
 ![model](Framework.png)
